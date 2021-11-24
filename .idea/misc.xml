@@ -6,6 +6,20 @@
         <option value="$PROJECT_DIR$/myproject/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/myproject/all/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/core/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/dispatcher/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/it.tests/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/ui.apps.structure/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/ui.apps/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/ui.config/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/ui.content/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/ui.frontend/pom.xml" />
+        <option value="$PROJECT_DIR$/myproject/ui.tests/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK" />
 </project>

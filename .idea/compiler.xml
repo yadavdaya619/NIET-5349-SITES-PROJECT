@@ -1,21 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <annotationProcessing>
-      <profile name="Maven default annotation processors profile" enabled="true">
-        <sourceOutputDir name="target/generated-sources/annotations" />
-        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="myproject.ui.apps" />
-        <module name="myproject.core" />
-        <module name="myproject.ui.content" />
-        <module name="myproject.ui.tests" />
-        <module name="myproject.all" />
-        <module name="myproject.ui.config" />
-        <module name="myproject.it.tests" />
-        <module name="myproject.ui.apps.structure" />
-      </profile>
-    </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="myproject" target="1.8" />
       <module name="myproject.all" target="1.8" />
